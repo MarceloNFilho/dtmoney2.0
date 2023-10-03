@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 12000,
+      "createdAt": "2023-09-30T18:24:28.096Z"
+    },
+    {
+      "id": 2,
+      "description": "Compras do mês",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 200,
+      "createdAt": "2023-09-30T18:15:28.096Z"
+    },
+    {
+      "description": "Ignite",
+      "price": 1980,
+      "category": "Educação",
+      "type": "outcome",
+      "createdAt": "2023-10-03T01:58:47.877Z",
+      "id": 3
+    },
+    {
+      "description": "Burguer King",
+      "price": 72,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-10-03T02:14:24.433Z",
+      "id": 4
+    }
+  ]
+}
